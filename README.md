@@ -11,4 +11,5 @@ and I will describe the steps here.
   3. XYZ           
   </pre>
 
-<img src =”https://github.com/mehmet-renastech/python-project/blob/main/images/catImage.jpeg”>
+
+![Screenshot](https://github.com/mehmet-renastech/python-project/blob/main/images/catImage.jpeg)
